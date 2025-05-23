@@ -26,9 +26,8 @@ For Maven:
 Javateam/
 ├── pom.xml
 └── src/
-|   ├── main/java/...
-|   └── test/java/...
-|___.github/workflows/main.yml
+    ├── main/java/...
+    └── test/java/...
 
 ```
 
@@ -40,7 +39,7 @@ Javateam/
 ```
 .github/
 └── workflows/
-    └── build.yml
+    └── main.yml
 ```
 
 2. Example GitHub Actions Workflow for Maven:
