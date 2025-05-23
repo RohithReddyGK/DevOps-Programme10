@@ -23,22 +23,13 @@ Before setting up this pipeline, ensure the following:
 For Maven:
 
 ```
-MyProject/
+Javateam/
 ├── pom.xml
 └── src/
     ├── main/java/...
     └── test/java/...
 ```
 
-For Gradle:
-
-```
-MyProject/
-├── build.gradle
-└── src/
-    ├── main/java/...
-    └── test/java/...
-```
 
 ## Step 1: Setting Up the GitHub Actions Workflow
 
